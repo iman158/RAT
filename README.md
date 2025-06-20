@@ -37,6 +37,7 @@ A basic multi-client command and control server built with Python using `socket`
 pip install colorama
 
 
+
 🛰️ Python RAT Client
 
 This is the client component of the Python Remote Access Tool (RAT). Once executed, it connects to the server and listens for incoming commands, executing them locally and sending back the output.
